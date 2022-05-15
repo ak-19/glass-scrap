@@ -18,7 +18,8 @@ dist/
 
 *.pdf
 *.env
-*.json
+
+.vscode/
 
 # Package files
 *.jar
